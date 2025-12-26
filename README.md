@@ -66,9 +66,7 @@ You need a web browser to view the website.
 ### Installation
 
 1.  Clone the repo
-    ```sh
-    git clone https://github.com/your_username_/Project-Name.git
-    ```
+  
 2.  Open the `index.html` file in your browser to view the website.
 
 ## 🤝 Contributing
@@ -86,3 +84,4 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
